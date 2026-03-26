@@ -1,4 +1,5 @@
 # Welcome to your Expo app 
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
@@ -14,6 +15,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
+ 3. After starting the project, Expo will display an IP address in the terminal, for example:
+
+     Metro waiting on exp://10.51.69.6:8081
+     You must update the API base URL in the api.js file with this IP address.
+     
 
 In the output, you'll find options to open the app in a
 
